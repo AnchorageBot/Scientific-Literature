@@ -28,4 +28,4 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Emergent Analogical Reasoning in Large Language Models - Taylor Webb, Keith J. Holyoak, Hongjing Lu](https://arxiv.org/abs/2212.09196) - 	arXiv:2212.09196 [cs.AI]
 
-* [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann - arXiv:2306.03009 [stat.ML]](https://arxiv.org/abs/2306.03009)
+* [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML]
