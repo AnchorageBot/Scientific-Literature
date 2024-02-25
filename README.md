@@ -1,4 +1,4 @@
-# ComputationalLiterature
+# Scientific Literature
 
 * [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt - 1957](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf) - Umass edu
 
