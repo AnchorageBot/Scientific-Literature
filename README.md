@@ -34,4 +34,4 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - 2023
 
-* [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML]
+* [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML] - 5 Jun 2023
