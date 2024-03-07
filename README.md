@@ -30,12 +30,12 @@ François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models - 
 Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, Brian Fuller, Cynthia Gao, Vedanuj Goswami, Naman Goyal, Anthony Hartshorn, Saghar Hosseini, Rui Hou, Hakan Inan, Marcin Kardas, Viktor Kerkez, Madian Khabsa, Isabel Kloumann, Artem Korenev, Punit Singh Koura, Marie-Anne Lachaux, Thibaut Lavril, Jenya Lee, Diana Liskovich, Yinghai Lu, Yuning Mao, Xavier Martinet, Todor Mihaylov, Pushkar Mishra, Igor Molybog, Yixin Nie, Andrew Poulton, Jeremy Reizenstein, Rashi Rungta, Kalyan Saladi, Alan Schelten, Ruan Silva, Eric Michael Smith, Ranjan Subramanian, Xiaoqing Ellen Tan, Binh Tang, Ross Taylor, Adina Williams, Jian Xiang Kuan, Puxin Xu, Zheng Yan, Iliyan Zarov, Yuchen Zhang, Angela Fan, Melanie Kambadur, Sharan Narang, Aurelien Rodriguez, Robert Stojnic, Sergey Edunov, Thomas Scialom](https://arxiv.org/abs/2307.09288) - 	arXiv:2307.09288 [cs.CL]  - 2023
 
-* [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - 2023
-
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4 - Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang](https://arxiv.org/abs/2303.12712) - arXiv:2303.12712 [cs.CL] - Submitted on 22 Mar 2023
 
 * [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML] - 5 Jun 2023
 
 * [Emergent Analogical Reasoning in Large Language Models - Taylor Webb, Keith J. Holyoak, Hongjing Lu](https://arxiv.org/abs/2212.09196) - 	arXiv:2212.09196 [cs.AI] - 3 Aug 2023
+
+* [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - Submitted on 11 Oct 2023
 
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - Submitted on 12 Dec 2023
