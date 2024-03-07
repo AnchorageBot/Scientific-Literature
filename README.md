@@ -32,10 +32,10 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - 2023
 
-* [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - 2023
-
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4 - Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang](https://arxiv.org/abs/2303.12712) - arXiv:2303.12712 [cs.CL] - Submitted on 22 Mar 2023
 
 * [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML] - 5 Jun 2023
 
 * [Emergent Analogical Reasoning in Large Language Models - Taylor Webb, Keith J. Holyoak, Hongjing Lu](https://arxiv.org/abs/2212.09196) - 	arXiv:2212.09196 [cs.AI] - 3 Aug 2023
+
+* [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - Submitted on 12 Dec 2023
