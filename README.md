@@ -19,7 +19,7 @@
 * [On the Measure of Intelligence
 François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2019
 
-* [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 cs.LG - 2021
+* [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 cs.LG - Submitted on 26 Feb 2021
 
 * [Entropy as a Topological Operad Derivation - Tai-Danae Bradley](https://arxiv.org/abs/2107.09581) - arXiv:2107.09581 [math.AT] - 10 Sep 2021
 
