@@ -21,11 +21,11 @@ François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2
 
 * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 cs.LG - 2021
 
-* [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV] - 2021
+* [Entropy as a Topological Operad Derivation - Tai-Danae Bradley](https://arxiv.org/abs/2107.09581) - arXiv:2107.09581 [math.AT] - 10 Sep 2021
+
+* [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV] - Submitted on 20 Dec 2021 
 
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
- 
-* [Entropy as a Topological Operad Derivation - Tai-Danae Bradley](https://arxiv.org/abs/2107.09581) - arXiv:2107.09581 [math.AT] - 10 Sep 2021
  
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4 - Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang](https://arxiv.org/abs/2303.12712) - arXiv:2303.12712 [cs.CL] - Submitted on 22 Mar 2023
 
