@@ -27,6 +27,8 @@ François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2
 
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
  
+* [The intransitive dice kernel - Ashwin Sah, Mehtaab Sawhney](https://arxiv.org/abs/2302.11293) - arXiv:2302.11293 [math.PR] - 22 Feb 2023
+ 
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4 - Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric Horvitz, Ece Kamar, Peter Lee, Yin Tat Lee, Yuanzhi Li, Scott Lundberg, Harsha Nori, Hamid Palangi, Marco Tulio Ribeiro, Yi Zhang](https://arxiv.org/abs/2303.12712) - arXiv:2303.12712 [cs.CL] - Submitted on 22 Mar 2023
 
 * [Using Sequences of Life-events to Predict Human Lives - Germans Savcisens, Tina Eliassi-Rad, Lars Kai Hansen, Laust Mortensen, Lau Lilleholt, Anna Rogers, Ingo Zettler, Sune Lehmann](https://arxiv.org/abs/2306.03009) - arXiv:2306.03009 [stat.ML] - 5 Jun 2023
