@@ -1,5 +1,11 @@
 # Scientific Literature
 
+- - - -
+
+[Frontier Model Forum](https://www.frontiermodelforum.org)
+
+- - - -
+
 * [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf) - Umass edu  - 1957
 
 * [Learning representations by back-propagating errors -David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) - U Montreal  - 1986
