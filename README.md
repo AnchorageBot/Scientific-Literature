@@ -4,6 +4,8 @@
 
 [NIST NVD](https://nvd.nist.gov/vuln)
 
+[arXiv](https://arxiv.org)
+
 [Frontier Model Forum](https://www.frontiermodelforum.org)
 
 - - - -
