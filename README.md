@@ -58,3 +58,5 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [AutoDev: Automated AI-Driven Development
 Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel Sundaresan](https://arxiv.org/abs/2403.08299) - arXiv:2403.08299 [cs.SE] - [Submitted on 13 Mar 2024]
+
+* [Matreux, T., Aikkila, P., Scheu, B. et al. Heat flows enrich prebiotic building blocks and enhance their reactivity. Nature 628, 110–116 (2024)](https://doi.org/10.1038/s41586-024-07193-7)
