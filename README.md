@@ -14,6 +14,8 @@
 
 * [On computable numbers, with an application to the Entscheidungsproblem - Alan M. Turing](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) - 1936
 
+* [The Applications of Probability to Cryptography - Alan M Turing](https://arxiv.org/abs/1505.04714) - 1939 ish - arXiv:1505.04714 [math.HO]
+
 * [Perceptron: A Perceiving and Recognizing Automaton - Frank Rosenblatt](https://blogs.umass.edu/brain-wars/files/2016/03/rosenblatt-1957.pdf) - Umass edu  - 1957
 
 * [Learning representations by back-propagating errors -David E. Rumelhart, Geoffrey E. Hinton & Ronald J. Williams](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf) - U Montreal  - 1986
