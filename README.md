@@ -6,6 +6,8 @@
 
 [bioRxiv](https://www.biorxiv.org)
 
+[Nature](https://www.nature.com)
+
 [NIST AI](https://www.nist.gov/artificial-intelligence)
 
 [NIST NVD](https://nvd.nist.gov/vuln)
