@@ -70,3 +70,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [ReALM: Reference Resolution As Language Modeling - Joel Ruben Antony Moniz, Soundarya Krishnan, Melis Ozyildirim, Prathamesh Saraf, Halim Cagri Ates, Yuan Zhang, Hong Yu, Nidhi Rajshree](https://arxiv.org/abs/2403.20329) - arXiv:2403.20329 [cs.CL] - [Submitted on 29 Mar 2024]
 
 * [Matreux, T., Aikkila, P., Scheu, B. et al. Heat flows enrich prebiotic building blocks and enhance their reactivity. Nature 628, 110–116 (2024)](https://doi.org/10.1038/s41586-024-07193-7)
+
+* [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework - Sachin Mehta, Mohammad Hossein Sekhavat, Qingqing Cao, Maxwell Horton, Yanzi Jin, Chenfan Sun, Iman Mirzadeh, Mahyar Najibi, Dmitry Belenko, Peter Zatloukal, Mohammad Rastegari](https://arxiv.org/abs/2404.14619) - arXiv:2404.14619 [cs.CL] - Submitted on 22 Apr 2024
