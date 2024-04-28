@@ -28,6 +28,8 @@
 
 * [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs)  - 2015
 
+* [Reynolds Averaged Turbulence Modeling using Deep Neural Networks with Embedded Invariance - Ling, Kurzawski, and Templeton](https://www.osti.gov/servlets/purl/1333570) - 2016
+
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications - Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam](https://arxiv.org/abs/1704.04861) - arXiv:1704.04861 [cs.CV]  - April, 2017
 
 * [Attention Is All You Need -Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin](https://arxiv.org/abs/1706.03762) - 	arXiv:1706.03762 [cs.CL]  - June 2017
