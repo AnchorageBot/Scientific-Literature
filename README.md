@@ -68,6 +68,8 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Stealing Part of a Production Language Model - Nicholas Carlini, Daniel Paleka, Krishnamurthy Dj Dvijotham, Thomas Steinke, Jonathan Hayase, A. Feder Cooper, Katherine Lee, Matthew Jagielski, Milad Nasr, Arthur Conmy, Eric Wallace, David Rolnick, Florian Tramèr](https://arxiv.org/abs/2403.06634) - arXiv:2403.06634 [cs.CR] - Submitted on 11 Mar 2024
 
+* [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training - Brandon McKinzie, Zhe Gan, Jean-Philippe Fauconnier, Sam Dodge, Bowen Zhang, Philipp Dufter, Dhruti Shah, Xianzhi Du, Futang Peng, Floris Weers, Anton Belyi, Haotian Zhang, Karanjeet Singh, Doug Kang, Ankur Jain, Hongyu Hè, Max Schwarzer, Tom Gunter, Xiang Kong, Aonan Zhang, Jianyu Wang, Chong Wang, Nan Du, Tao Lei, Sam Wiseman, Guoli Yin, Mark Lee, Zirui Wang, Ruoming Pang, Peter Grasch, Alexander Toshev, Yinfei Yang](https://arxiv.org/abs/2403.09611) - 	arXiv:2403.09611 cs.CV - 14 March 2024
+
 * [AutoDev: Automated AI-Driven Development
 Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel Sundaresan](https://arxiv.org/abs/2403.08299) - arXiv:2403.08299 [cs.SE] - [Submitted on 13 Mar 2024]
 
