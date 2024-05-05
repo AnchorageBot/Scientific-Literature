@@ -62,6 +62,8 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - Submitted on 11 Oct 2023
 
+* [Robust Constant-Time Cryptography - Matthew Kolosick, Basavesh Ammanaghatta Shivakumar, Sunjay Cauligi, Marco Patrignani, Marco Vassena, Ranjit Jhala, Deian Stefan](https://arxiv.org/abs/2311.05831) - arXiv:2311.05831 cs.CR - ubmitted on 10 Nov 2023
+
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - Submitted on 12 Dec 2023
 
 * [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training - Evan Hubinger, Carson Denison, Jesse Mu, Mike Lambert, Meg Tong, Monte MacDiarmid, Tamera Lanham, Daniel M. Ziegler, Tim Maxwell, Newton Cheng, Adam Jermyn, Amanda Askell, Ansh Radhakrishnan, Cem Anil, David Duvenaud, Deep Ganguli, Fazl Barez, Jack Clark, Kamal Ndousse, Kshitij Sachan, Michael Sellitto, Mrinank Sharma, Nova DasSarma, Roger Grosse, Shauna Kravec, Yuntao Bai, Zachary Witten, Marina Favaro, Jan Brauner, Holden Karnofsky, Paul Christiano, Samuel R. Bowman, Logan Graham, Jared Kaplan, Sören Mindermann, Ryan Greenblatt, Buck Shlegeris, Nicholas Schiefer, Ethan Perez](https://doi.org/10.48550/arXiv.2401.05566) - arXiv:2401.05566 cs.CR - Submitted on 10 Jan 2024 (v1), last revised 17 Jan 2024 (this version, v3)
