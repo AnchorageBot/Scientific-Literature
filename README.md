@@ -80,3 +80,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [Matreux, T., Aikkila, P., Scheu, B. et al. Heat flows enrich prebiotic building blocks and enhance their reactivity. Nature 628, 110–116 (2024)](https://doi.org/10.1038/s41586-024-07193-7)
 
 * [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework - Sachin Mehta, Mohammad Hossein Sekhavat, Qingqing Cao, Maxwell Horton, Yanzi Jin, Chenfan Sun, Iman Mirzadeh, Mahyar Najibi, Dmitry Belenko, Peter Zatloukal, Mohammad Rastegari](https://arxiv.org/abs/2404.14619) - arXiv:2404.14619 [cs.CL] - Submitted on 22 Apr 2024
+
+* [KAN: Kolmogorov-Arnold Networks - Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark](https://arxiv.org/abs/2404.19756) - arXiv:2404.19756 [cs.LG] - Submitted on 30 Apr 2024 (v1), last revised 2 May 2024 (this version, v2)
