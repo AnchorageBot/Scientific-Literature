@@ -85,4 +85,4 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 
 * [KAN: Kolmogorov-Arnold Networks - Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark](https://arxiv.org/abs/2404.19756) - arXiv:2404.19756 [cs.LG] - Submitted on 30 Apr 2024 (v1), last revised 2 May 2024 (this version, v2)
 
-* [BiLLM: Pushing the Limit of Post-Training Quantization for LLMs]()
+* [BiLLM: Pushing the Limit of Post-Training Quantization for LLMs](https://arxiv.org/abs/2402.04291)
