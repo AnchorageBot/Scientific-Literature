@@ -48,6 +48,8 @@ François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2
 * [High-Resolution Image Synthesis with Latent Diffusion Models - Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer](https://arxiv.org/abs/2112.10752) - arXiv:2112.10752 [cs.CV] - Submitted on 20 Dec 2021 
 
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
+
+* [Introduction to Orbifolds - Francisco C. Caramello Jr](https://arxiv.org/abs/1909.08699)
  
 * [The intransitive dice kernel - Ashwin Sah, Mehtaab Sawhney](https://arxiv.org/abs/2302.11293) - arXiv:2302.11293 [math.PR] - 22 Feb 2023
  
