@@ -26,6 +26,8 @@
   
 * :wolf: [Alopex: A Correlation-Based Learning Algo for Feedforward and Recurrent Neural Networks - K.P.Unnikrishnan, K.P. Venugopal](https://www.cs.colostate.edu/~anderson/cs545/notebooks/Alopex.pdf)  - 1994 - CSU edu
 
+* [Evolving Neural Networks through Augmenting Topologies - Kenneth O. Stanley, Risto Miikkulainen](https://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf) - ⃝c 2002 by the Massachusetts Institute of Technology Evolutionary Computation 10(2): 99-127
+
 * [Competitive Coevolution through Evolutionary Complexification - R. Miikkulainen, K. O. Stanley](https://arxiv.org/abs/1107.0037) - arXiv:1107.0037 [cs.AI] - Submitted on 30 Jun 2011
 
 * [Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun](https://arxiv.org/abs/1512.03385) - arXiv:1512.03385 (cs)  - 2015
