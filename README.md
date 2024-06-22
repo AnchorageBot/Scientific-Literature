@@ -93,3 +93,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [KAN: Kolmogorov-Arnold Networks - Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark](https://arxiv.org/abs/2404.19756) - arXiv:2404.19756 [cs.LG] - Submitted on 30 Apr 2024 (v1), last revised 2 May 2024 (this version, v2)
 
 * [Aurora: A Foundation Model of the Atmosphere - Cristian Bodnar, Wessel P. Bruinsma, Ana Lucic, Megan Stanley, Johannes Brandstetter, Patrick Garvan, Maik Riechert, Jonathan Weyn, Haiyu Dong, Anna Vaughan, Jayesh K. Gupta, Kit Tambiratnam, Alex Archibald, Elizabeth Heider, Max Welling, Richard E. Turner, Paris Perdikaris](https://arxiv.org/abs/2405.13063) - arXiv:2405.13063 [physics.ao-ph] - [Submitted on 20 May 2024 (v1), last revised 28 May 2024 (this version, v2)]
+
+* [Well-posedness of the Euler equations in a stably stratified ocean in isopycnal coordinates - Théo Fradin](https://arxiv.org/abs/2406.13263) - arXiv:2406.13263 [math.AP] - Submitted on 19 Jun 2024
