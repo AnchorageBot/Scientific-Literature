@@ -95,3 +95,6 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [Aurora: A Foundation Model of the Atmosphere - Cristian Bodnar, Wessel P. Bruinsma, Ana Lucic, Megan Stanley, Johannes Brandstetter, Patrick Garvan, Maik Riechert, Jonathan Weyn, Haiyu Dong, Anna Vaughan, Jayesh K. Gupta, Kit Tambiratnam, Alex Archibald, Elizabeth Heider, Max Welling, Richard E. Turner, Paris Perdikaris](https://arxiv.org/abs/2405.13063) - arXiv:2405.13063 [physics.ao-ph] - [Submitted on 20 May 2024 (v1), last revised 28 May 2024 (this version, v2)]
 
 * [Well-posedness of the Euler equations in a stably stratified ocean in isopycnal coordinates - Théo Fradin](https://arxiv.org/abs/2406.13263) - arXiv:2406.13263 [math.AP] - Submitted on 19 Jun 2024
+
+* [Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B - Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang](https://arxiv.org/abs/2406.07394) = [Submitted on 11 Jun 2024 (v1), last revised 13 Jun 2024 (this version, v2)]
+
