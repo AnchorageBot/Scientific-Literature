@@ -98,3 +98,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 
 * [Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B - Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang](https://arxiv.org/abs/2406.07394) - arXiv:2406.07394 [cs.AI] - [Submitted on 11 Jun 2024 (v1), last revised 13 Jun 2024 (this version, v2)]
 
+  * [Code from the Zhang et all paper](https://github.com/trotsky1997/MathBlackBox) - Github
+
