@@ -44,6 +44,8 @@
 
 * [On the Measure of Intelligence - François Chollet](https://arxiv.org/abs/1911.01547) - arXiv:1911.01547 (cs) - 2019
 
+* [Optimally weighted loss functions for solving PDEs with Neural Networks - Remco van der Meer, Cornelis Oosterlee, Anastasia Borovykh](https://arxiv.org/abs/2002.06269) - arXiv:2002.06269 [math.NA] - [Submitted on 14 Feb 2020 (v1), last revised 24 Mar 2021 (this version, v4)]
+
 * [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks - Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, Douwe Kiela](https://arxiv.org/abs/2005.11401) - Submitted on 22 May 2020 (v1), last revised 12 Apr 2021 (this version, v4)
 
 * [Swift for TensorFlow: A portable, flexible platform for deep learning - Brennan Saeta, Denys Shabalin, Marc Rasi, Brad Larson, Xihui Wu, Parker Schuh, Michelle Casbon, Daniel Zheng, Saleem Abdulrasool, Aleksandr Efremov, Dave Abrahams, Chris Lattner, Richard Wei](https://arxiv.org/abs/2102.13243) - arXiv:2102.13243 cs.LG - Submitted on 26 Feb 2021
