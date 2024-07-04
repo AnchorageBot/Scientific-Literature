@@ -100,3 +100,4 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 
   * [Code from the Zhang et all paper](https://github.com/trotsky1997/MathBlackBox) - Github
 
+* [New large value estimates for Dirichlet polynomials - Larry Guth, James Maynard](https://arxiv.org/abs/2405.20552) - arXiv:2405.20552 [math.NT] - [Submitted on 31 May 2024]
