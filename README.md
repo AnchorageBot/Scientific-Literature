@@ -57,6 +57,8 @@
   * [Code from the Rombach et al Paper](https://github.com/CompVis/latent-diffusion) - Github
 
 * [Introduction to Orbifolds - Francisco C. Caramello Jr](https://arxiv.org/abs/1909.08699) - arXiv:1909.08699 [math.DG] - Submitted on 18 Sep 2019 (v1), last revised 11 Apr 2022 (this version, v6)
+
+* [Data-driven initialization of deep learning solvers for Hamilton-Jacobi-Bellman PDEs - Anastasia Borovykh, Dante Kalise, Alexis Laignelet, Panos Parpas](https://arxiv.org/abs/2207.09299) - arXiv:2207.09299 [math.OC] - [Submitted on 19 Jul 2022]
  
 * [The intransitive dice kernel - Ashwin Sah, Mehtaab Sawhney](https://arxiv.org/abs/2302.11293) - arXiv:2302.11293 [math.PR] - 22 Feb 2023
  
