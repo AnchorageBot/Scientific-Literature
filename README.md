@@ -105,3 +105,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
   * [Code from the Zhang et all paper](https://github.com/trotsky1997/MathBlackBox) - Github
 
 * [Well-posedness of the Euler equations in a stably stratified ocean in isopycnal coordinates - Théo Fradin](https://arxiv.org/abs/2406.13263) - arXiv:2406.13263 [math.AP] - Submitted on 19 Jun 2024
+
+* [GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables - Mathieu Huot, Matin Ghavami, Alexander K. Lew, Ulrich Schaechtle, Cameron E. Freer, Zane Shelby, Martin C. Rinard, Feras A. Saad, Vikash K. Mansinghka](https://arxiv.org/abs/2406.15652) - arXiv:2406.15652 [cs.PL] - [Submitted on 21 Jun 2024]
