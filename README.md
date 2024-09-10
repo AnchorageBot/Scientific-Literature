@@ -75,7 +75,9 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models - Dingli Yu, Simran Kaur, Arushi Gupta, Jonah Brown-Cohen, Anirudh Goyal, Sanjeev Arora](https://arxiv.org/abs/2310.17567) - arXiv:2310.17567v1 cs.CL - Submitted on 26 Oct 2023
 
-* [Robust Constant-Time Cryptography - Matthew Kolosick, Basavesh Ammanaghatta Shivakumar, Sunjay Cauligi, Marco Patrignani, Marco Vassena, Ranjit Jhala, Deian Stefan](https://arxiv.org/abs/2311.05831) - arXiv:2311.05831 cs.CR - ubmitted on 10 Nov 2023
+* [A Theory for Emergence of Complex Skills in Language Models - Sanjeev Arora, Anirudh Goyal](https://arxiv.org/abs/2307.15936) -  arXiv:2307.15936v2 cs.LG - Submitted on 29 Jul 2023 (v1), last revised 6 Nov 2023 (this version, v2)
+
+* [Robust Constant-Time Cryptography - Matthew Kolosick, Basavesh Ammanaghatta Shivakumar, Sunjay Cauligi, Marco Patrignani, Marco Vassena, Ranjit Jhala, Deian Stefan](https://arxiv.org/abs/2311.05831) - arXiv:2311.05831 cs.CR - Submitted on 10 Nov 2023
 
 * [LLM in a flash: Efficient Large Language Model Inference with Limited Memory - Keivan Alizadeh, Iman Mirzadeh, Dmitry Belenko, Karen Khatamifard, Minsik Cho, Carlo C Del Mundo, Mohammad Rastegari, Mehrdad Farajtabar](https://doi.org/10.48550/arXiv.2312.11514) - arXiv:2312.11514v1 cs.CL - Submitted on 12 Dec 2023
 
