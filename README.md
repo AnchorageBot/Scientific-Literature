@@ -104,6 +104,8 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 
 * [New large value estimates for Dirichlet polynomials - Larry Guth, James Maynard](https://arxiv.org/abs/2405.20552) - arXiv:2405.20552 [math.NT] - [Submitted on 31 May 2024]
 
+* [Open X-Embodiment: Robotic Learning Datasets and RT-X Models - Open X-Embodiment Collaboration, Abby O'Neill et. al.](https://arxiv.org/abs/2310.08864) - arXiv:2310.08864 [cs.RO] - [v8] Sat, 1 Jun 2024
+
 * [Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B - Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang](https://arxiv.org/abs/2406.07394) - arXiv:2406.07394 [cs.AI] - [Submitted on 11 Jun 2024 (v1), last revised 13 Jun 2024 (this version, v2)]
 
   * [Code from the Zhang et all paper](https://github.com/trotsky1997/MathBlackBox) - Github
