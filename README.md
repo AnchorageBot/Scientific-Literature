@@ -113,3 +113,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables - Mathieu Huot, Matin Ghavami, Alexander K. Lew, Ulrich Schaechtle, Cameron E. Freer, Zane Shelby, Martin C. Rinard, Feras A. Saad, Vikash K. Mansinghka](https://arxiv.org/abs/2406.15652) - arXiv:2406.15652 [cs.PL] - [Submitted on 21 Jun 2024]
 
 * [KAN 2.0: Kolmogorov-Arnold Networks Meet Science - Ziming Liu, Pingchuan Ma, Yixuan Wang, Wojciech Matusik, Max Tegmark](https://arxiv.org/abs/2408.10205) - arXiv:2408.10205 [cs.LG] - Submitted on 19 Aug 2024
+
+* [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation - Ria Doshi, Homer Walke, Oier Mees, Sudeep Dasari, Sergey Levine](https://arxiv.org/abs/2408.11812) - arXiv:2408.11812 [cs.RO] - [v1] Wed, 21 Aug 2024
