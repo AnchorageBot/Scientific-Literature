@@ -119,3 +119,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation - Ria Doshi, Homer Walke, Oier Mees, Sudeep Dasari, Sergey Levine](https://arxiv.org/abs/2408.11812) - arXiv:2408.11812 [cs.RO] - [v1] Wed, 21 Aug 2024
 
 * [Learning topological states from randomized measurements using variational tensor network tomography - Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi](https://arxiv.org/abs/2406.00193) - arXiv:2406.00193v3 [quant-ph] - submitted on 31 May 2024 (v1), last revised 28 Jun 2024 (this version, v3)
+
+* [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers - Lirui Wang, Xinlei Chen, Jialiang Zhao, Kaiming He](https://arxiv.org/abs/2409.20537) - arXiv:2409.20537 [cs.RO] - Submitted on 30 Sep 2024]
