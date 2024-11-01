@@ -121,3 +121,5 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [Learning topological states from randomized measurements using variational tensor network tomography - Yanting Teng, Rhine Samajdar, Katherine Van Kirk, Frederik Wilde, Subir Sachdev, Jens Eisert, Ryan Sweke, Khadijeh Najafi](https://arxiv.org/abs/2406.00193) - arXiv:2406.00193v3 [quant-ph] - submitted on 31 May 2024 (v1), last revised 28 Jun 2024 (this version, v3)
 
 * [Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers - Lirui Wang, Xinlei Chen, Jialiang Zhao, Kaiming He](https://arxiv.org/abs/2409.20537) - arXiv:2409.20537 [cs.RO] - Submitted on 30 Sep 2024
+
+* [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models - Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar](https://arxiv.org/abs/2410.05229) - arXiv:2410.05229 [cs.LG] - Submitted on 7 Oct 2024
