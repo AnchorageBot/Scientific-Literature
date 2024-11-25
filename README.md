@@ -71,7 +71,7 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Emergent Analogical Reasoning in Large Language Models - Taylor Webb, Keith J. Holyoak, Hongjing Lu](https://arxiv.org/abs/2212.09196) - 	arXiv:2212.09196 [cs.AI] - 3 Aug 2023
 
-* [Generative Agents: Interactive Simulacra of Human Behavior - Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein] - arXiv:2304.03442 [cs.HC] - 6 Aug 2023
+* [Generative Agents: Interactive Simulacra of Human Behavior - Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein](https://arxiv.org/abs/2304.03442) - arXiv:2304.03442 [cs.HC] - 6 Aug 2023
 
 * [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - Submitted on 11 Oct 2023
 
