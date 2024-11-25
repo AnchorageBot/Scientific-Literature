@@ -71,6 +71,8 @@ Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine 
 
 * [Emergent Analogical Reasoning in Large Language Models - Taylor Webb, Keith J. Holyoak, Hongjing Lu](https://arxiv.org/abs/2212.09196) - 	arXiv:2212.09196 [cs.AI] - 3 Aug 2023
 
+* [Generative Agents: Interactive Simulacra of Human Behavior - Joon Sung Park, Joseph C. O'Brien, Carrie J. Cai, Meredith Ringel Morris, Percy Liang, Michael S. Bernstein]
+
 * [Ferret: Refer and Ground Anything Anywhere at Any Granularity - Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang ](https://arxiv.org/abs/2310.07704) - arXiv:2310.07704 cs.CV - Submitted on 11 Oct 2023
 
 * [Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models - Dingli Yu, Simran Kaur, Arushi Gupta, Jonah Brown-Cohen, Anirudh Goyal, Sanjeev Arora](https://arxiv.org/abs/2310.17567) - arXiv:2310.17567v1 cs.CL - Submitted on 26 Oct 2023
