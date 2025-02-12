@@ -127,3 +127,6 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 * [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models - Iman Mirzadeh, Keivan Alizadeh, Hooman Shahrokhi, Oncel Tuzel, Samy Bengio, Mehrdad Farajtabar](https://arxiv.org/abs/2410.05229) - arXiv:2410.05229 [cs.LG] - Submitted on 7 Oct 2024
 
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning - DeepSeek-AI, Daya Guo, et.al.](https://arxiv.org/abs/2501.12948) - arXiv:2501.12948 [cs.CL] - Submitted on 22 Jan 2025
+
+* [Optimal Bounds for Open Addressing Without Reordering - Martin Farach-Colton, Andrew Krapivin, William Kuszmaul](https://arxiv.org/abs/2501.02305)
+ arXiv:2501.02305 (cs)
