@@ -130,3 +130,6 @@ Michele Tufano, Anisha Agarwal, Jinu Jang, Roshanak Zilouchian Moghaddam, Neel S
 
 * [Optimal Bounds for Open Addressing Without Reordering - Martin Farach-Colton, Andrew Krapivin, William Kuszmaul](https://arxiv.org/abs/2501.02305)
  arXiv:2501.02305 (cs)
+
+* [Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs
+Ling Team, et al](https://arxiv.org/abs/2503.05139) arXiv:2503.05139 (cs) 
